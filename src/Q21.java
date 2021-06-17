@@ -5,7 +5,7 @@ public class Q21 {
         do {
             System.out.print( arr[i] + " ");
             i++;
-        } while (i < arr.length +1);
+        } while (i < arr.length+1);
     }
 }
 

@@ -1,8 +1,8 @@
 package Q20.market;
 
-import Q20.products.*;
-import Q20.sales.*;
 
+import Q20.sales.*;
+import Q20.products.*;
 
 public class USMarket {
     SalesMan sm;
