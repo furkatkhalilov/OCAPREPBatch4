@@ -18,7 +18,8 @@ abstract class Book implements Readable {
     public void readBook() {
         System.out.println("Read Book");
     }
-}
+
+    }
 
 class EBook extends Book {
     @Override
@@ -35,6 +36,7 @@ class EBook extends Book {
             What is the result?
         A.	Compilation fails at line n2.
         B.	Read Book
-        C.	Read E-Book D. Compilation fails at line n1.
+        C.	Read E-Book
+        D. Compilation fails at line n1.
         E. Compilation fails at line n3.
 */

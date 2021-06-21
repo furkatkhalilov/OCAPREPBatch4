@@ -22,7 +22,7 @@ class Car1 extends Vehicle1{
     int y;
     Car1(){
         super();
-        //this(20); // line n2
+//        this(20); // line n2
     }
     Car1(int y){
         this.y = y;
